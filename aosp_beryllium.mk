@@ -19,6 +19,12 @@ PRODUCT_MANUFACTURER := Xiaomi
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
+# Build Unofficial
+CUSTOM_BUILD_TYPE := UNOFFICIAL
+EVO_DONATE_URL := NOPE?
+EVO_MAINTAINER := wapakalypse09
+EVO_SUPPORT_URL := https://t.me/EvolutionXBeryllium
+
 # Gapps Config
 TARGET_GAPPS_ARCH := arm64
 TARGET_INCLUDE_WIFI_EXT := true
